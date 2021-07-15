@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace cursogit
 {
-    class Class1
+    class Class2
     {
-        public static void Main(string args [])
-        {
-
     }
 }
