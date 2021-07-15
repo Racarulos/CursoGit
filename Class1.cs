@@ -12,5 +12,6 @@ namespace cursogit
         {
             Console.WriteLine("hola");
             Console.ReadKey();
+            console
     }
 }
