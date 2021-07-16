@@ -8,7 +8,7 @@ namespace cursogit
 {
     class Class1
     {
-        public static void Main(string args)
+        static void Main(string[] args)
         {
             Console.WriteLine("hola");
             Console.ReadKey();

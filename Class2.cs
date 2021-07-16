@@ -8,5 +8,6 @@ namespace cursogit
 {
     class Class2
     {
+
     }
 }
